@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'TitilliumWeb', sans-serif;
+  font-weight: 400;
+  background-color: #f9f9f9; /* Light background for better contrast */
+  color: #333; /* Default text color */
+  line-height: 1.6;
+  word-spacing: 0.05em;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #000000;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+
+}
+
+
+body {
+  overflow-x: hidden;
+}
+
+
+
+
+@font-face {
+  font-family: 'TitilliumWeb';
+  font-weight: 300; /* Light weight */
+  font-style: normal;
+  src: url('/font/Titillium_Web/TitilliumWeb-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'TitilliumWeb';
+  font-weight: 400; /* Regular weight */
+  font-style: normal;
+  src: url('/font/Titillium_Web/TitilliumWeb-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'TitilliumWeb';
+  font-weight: 600; /* SemiBold weight */
+  font-style: normal;
+  src: url('/font/Titillium_Web/TitilliumWeb-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'TitilliumWeb';
+  font-weight: 700; /* Bold weight */
+  font-style: normal;
+  src: url('/font/Titillium_Web/TitilliumWeb-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'TitilliumWeb';
+  font-weight: 900; /* Black weight */
+  font-style: normal;
+  src: url('/font/Titillium_Web/TitilliumWeb-Black.ttf') format('truetype');
+}
+
+/* Adding font styles */
+h1, h2 {
+  font-family: 'TitilliumWeb', sans-serif;
+ 
+}
+
+p {
+  font-family: 'TitilliumWeb', sans-serif;
+  font-weight: 400; /* Regular weight for paragraphs */
+  color: #C7C7C7; /* Paragraph color */
+  line-height: 1.6; /* Line height */
+  word-spacing: 0.1em; /* Word spacing */
+}
+
+
+.backgroundimg {
+  background-image: url('../src/assets/bgimg.jpg'); /* Webpack/Vite resolves this path automatically */
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position: 50px; */
+ 
+}
+
+    
+

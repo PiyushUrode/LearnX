@@ -1,0 +1,424 @@
+{
+    "Staking List": [
+      {
+        "totalAmount": 1000,
+        "lockedAmount": 500,
+        "buyDate": "2024-12-01",
+        "nextClaim": "2025-01-01",
+        "claimed": "300",
+        "month": "December",
+        "status": "Active"
+      },
+      {
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },
+      {
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      },{
+        "totalAmount": 1500,
+        "lockedAmount": 700,
+        "buyDate": "2024-11-15",
+        "nextClaim": "2024-12-15",
+        "claimed": "200",
+        "month": "November",
+        "status": "Pending"
+      }
+    ],
+    "Referral List": [
+      {
+        "address": "0x1234...abcd",
+        "amount": 200,
+        "level": "Level 1"
+      },
+      {
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },
+      {
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },
+      {
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },
+      {
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },
+      {
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },
+      {
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },
+      {
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },
+      {
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },{
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },{
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },{
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },{
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },{
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },{
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },{
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },{
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },{
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },{
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },{
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },{
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },{
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      },{
+        "address": "0xabcd...1234",
+        "amount": 150,
+        "level": "Level 2"
+      }
+      
+    ]
+  }
+  
